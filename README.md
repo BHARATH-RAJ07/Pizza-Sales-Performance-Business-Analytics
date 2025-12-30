@@ -54,19 +54,32 @@ Key Fields:
 
 ## Dashboards and Visualizations
 
-### Power BI Dashboard
-- Multi-page dashboard (Home, Best/Worst Sellers)
-- Executive KPI cards
-- Daily and Monthly order trends
-- Sales distribution by category and size
-- Top and Bottom performing pizzas
-- Interactive slicers for date and category
+- Developed two interactive dashboards using Power BI and Tableau for comprehensive pizza sales analysis
+- Designed clean, user-friendly layouts suitable for executive and operational review
+- Created multi-page dashboards with dedicated Home and Best/Worst Sellers views
+- Built executive KPI cards to track Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, and Average Pizzas per Order
+- Analyzed daily sales trends to understand weekday vs weekend performance
+- Evaluated monthly sales trends to identify seasonality and peak business periods
+- Analyzed hourly and weekly sales patterns to identify high-demand time windows
+- Visualized sales distribution by pizza category to capture customer preferences
+- Compared sales performance by pizza size to support inventory and pricing decisions
+- Identified top-performing pizzas based on revenue, quantity sold, and order frequency
+- Identified least-performing pizzas to support menu optimization decisions
+- Enabled interactive filters and slicers for date, category, and pizza attributes
+- Supported drill-down analysis for deeper exploration of product and time-based insights
+- Delivered dashboards that enable data-driven decisions for marketing, operations, and inventory planning
 
-### Tableau Dashboard
-- Hourly and Weekly sales trends
-- Sales percentage by category and size
-- Best and Worst seller analysis
-- Interactive filters for detailed exploration
+
+## Live Dashboards
+
+### Power BI
+Power BI Live Dashboard:  
+https://app.powerbi.com/groups/me/reports/740bd8ee-3556-4109-97fa-188aa54d6ef6/fc317158b8f7a84a9633?experience=power-bi
+
+### Tableau
+Tableau Public Live Dashboard:  
+https://public.tableau.com/app/profile/bharath.raj.s4486/viz/PizzaSalesAnalytics_17670844999630/Home
+
 
 ## Key Business Insights
 - Classic pizzas contribute the highest revenue and order volume
@@ -81,7 +94,6 @@ Key Fields:
 - Python EDA Notebook
 - Power BI Interactive Dashboard
 - Tableau Public Dashboard
-- Business Requirements Document (BRD)
 
 ## Tools and Technologies
 - SQL Server

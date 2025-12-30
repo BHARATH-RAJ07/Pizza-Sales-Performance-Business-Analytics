@@ -88,7 +88,7 @@ Key Fields:
 - Python (Pandas, NumPy)
 - Power BI
 - Tableau Public
-- Jupyter Notebook
+- Google Collab
 - GitHub
 
 ## How to Use This Repository
